@@ -2,10 +2,10 @@
   "id": "target-line",
   "title": "Target Line",
   "description": "Zeigt eine leuchtende blaue Linie vom angreifenden Token zum anvisierten Token.",
-  "version": "1.0.0",
+  "version": "14.1",
   "compatibility": {
-    "minimum": "11",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "14"
   },
   "authors": [
     {
