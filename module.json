@@ -1,0 +1,35 @@
+{
+  "id": "target-line",
+  "title": "Target Line",
+  "description": "Zeigt eine leuchtende blaue Linie vom angreifenden Token zum anvisierten Token.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Custom Module"
+    }
+  ],
+  "scripts": [],
+  "esmodules": [
+    "scripts/target-line.mjs"
+  ],
+  "styles": [
+    "styles/target-line.css"
+  ],
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "flags": {}
+}
