@@ -35,5 +35,5 @@ Die visuellen Parameter können direkt oben im Script (`scripts/target-line.mjs`
 
 ## Kompatibilität
 
-- Foundry VTT v11+
-- Foundry VTT v12 (verifiziert)
+- Foundry VTT v13+
+- Foundry VTT v14 (verifiziert)
